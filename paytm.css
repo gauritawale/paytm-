@@ -7,6 +7,9 @@ html{
   }
 body{
 margin:0;
+font-family: Inter,sans-serif;
+font-size: 48px;
+
   }
 .navbar{
 height: 85px;
@@ -344,7 +347,7 @@ height:550px;
 }
 
 .btn2{
-border-radius:40px;
+border-radius:60px;
   color:white;
   padding:15px 24px 15px 24px;
   background-color: #002E6E;
